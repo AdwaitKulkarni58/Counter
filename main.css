@@ -1,0 +1,73 @@
+body {
+    background-color: cornsilk;
+}
+
+.counter {
+    color: maroon;
+    font-size: 6rem;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    padding: 3% 15%;
+}
+
+.buttons {
+    text-align: center;
+    padding: 3%;
+}
+
+.display {
+    color: midnightblue;
+    text-align: center;
+    font-size: 8rem;
+    font-family: "monospace", sans-serif;
+    padding: 40px;
+    cursor: pointer;
+}
+
+.increment {
+    background-color: black;
+    color: snow;
+    padding: 10px 20px;
+    font-size: 2rem;
+    margin: 10px;
+}
+
+.increment:hover {
+    background-color: teal;
+}
+
+.decrement {
+    background-color: black;
+    color: snow;
+    padding: 10px 20px;
+    font-size: 2rem;
+    margin: 10px;
+}
+
+.decrement:hover {
+    background-color: teal;
+}
+
+.add-ten {
+    background-color: black;
+    color: snow;
+    padding: 10px 20px;
+    font-size: 2rem;
+    margin: 10px;
+}
+
+.add-ten:hover {
+    background-color: teal;
+}
+
+.subtract-ten {
+    background-color: black;
+    color: snow;
+    padding: 10px 20px;
+    font-size: 2rem;
+    margin: 10px;
+}
+
+.subtract-ten:hover {
+    background-color: teal;
+}
